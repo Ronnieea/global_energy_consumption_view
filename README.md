@@ -1,0 +1,2 @@
+# global_energy_consumption_view
+# global_energy_consumption_view
